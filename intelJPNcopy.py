@@ -118,6 +118,6 @@ st.pyplot(fig)
 
 
 
-# Add a link## to the Kaggle Notebook
+st.subheader(' Link to Notebook')
 st.markdown('[View the full Code](https://github.com/abdmankhan/DS-intel-1980-24/edit/main/intelJPNcopy.py)')
 
